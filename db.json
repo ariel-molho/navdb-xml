@@ -1,0 +1,244 @@
+{
+  "archivoXml": [
+    {
+      "_id": {
+        "$oid": "5c6efada46582314180b4221"
+      },
+      "Identificador": "5c6efada46582314180b4221",
+      "Pais": {
+        "Nombre": "Peru",
+        "Abrev": "Pe",
+        "Color": "",
+        "Orden": 3,
+        "Identificador": "",
+        "XmlUrl": "https://feeds.navent.com/rela/NavplatRE_11.xml",
+        "CronExpression": "46 3 * * *"
+      },
+      "PaisAbrev": "Pe",
+      "FechaInicioDescarga": {
+        "$date": {
+          "$numberLong": "1645797718296"
+        }
+      },
+      "FechaFinDescarga": {
+        "$date": {
+          "$numberLong": "1645803762650"
+        }
+      },
+      "Correctos": 96,
+      "Fallidos": 4,
+      "Insertados": 47258,
+      "NoInsertados": 0
+    },
+    {
+      "_id": {
+        "$oid": "5e21fa7fdae74c1b3c263153"
+      },
+      "Identificador": "5e21fa7fdae74c1b3c263153",
+      "Pais": {
+        "Nombre": "Perú URB",
+        "Abrev": "PEURB",
+        "Color": "btn-info",
+        "Orden": 8,
+        "Identificador": "",
+        "XmlUrl": "http://feeds.navent.com/zpar/NavplatRE_111.xml",
+        "CronExpression": "46 3 * * *"
+      },
+      "PaisAbrev": "PEURB",
+      "FechaInicioDescarga": {
+        "$date": {
+          "$numberLong": "1646334457378"
+        }
+      },
+      "FechaFinDescarga": {
+        "$date": {
+          "$numberLong": "1646334512635"
+        }
+      },
+      "Correctos": 100,
+      "Fallidos": 0,
+      "Insertados": 44410,
+      "NoInsertados": 0
+    },
+    {
+      "_id": {
+        "$oid": "6031720a5b0b221644a58904"
+      },
+      "Identificador": "6031720a5b0b221644a58904",
+      "Pais": {
+        "Nombre": "Argentina",
+        "Abrev": "Ar",
+        "Color": "btn-success",
+        "Orden": 1,
+        "Identificador": "",
+        "XmlUrl": "http://feeds.navent.com/zpar/NavplatRE_1.xml",
+        "CronExpression": "31 4 * * *"
+      },
+      "PaisAbrev": "Ar",
+      "FechaInicioDescarga": {
+        "$date": {
+          "$numberLong": "1645800184614"
+        }
+      },
+      "FechaFinDescarga": {
+        "$date": {
+          "$numberLong": "1645808310202"
+        }
+      },
+      "Correctos": 95,
+      "Fallidos": 5,
+      "Insertados": 760851,
+      "NoInsertados": 0
+    },
+    {
+      "_id": {
+        "$oid": "60319217cf29080c8413e6d3"
+      },
+      "Identificador": "60319217cf29080c8413e6d3",
+      "Pais": {
+        "Nombre": "Panamá",
+        "Abrev": "Pa",
+        "Color": "btn-info",
+        "Orden": 5,
+        "Identificador": "",
+        "XmlUrl": "https://feeds.navent.com/rela/NavplatRE_20.xml",
+        "CronExpression": "44 3 * * *"
+      },
+      "PaisAbrev": "Pa",
+      "FechaInicioDescarga": {
+        "$date": {
+          "$numberLong": "1645797709588"
+        }
+      },
+      "FechaFinDescarga": {
+        "$date": {
+          "$numberLong": "1645803657067"
+        }
+      },
+      "Correctos": 96,
+      "Fallidos": 4,
+      "Insertados": 47339,
+      "NoInsertados": 0
+    },
+    {
+      "_id": {
+        "$oid": "603193f1cf29080c8414a276"
+      },
+      "Identificador": "603193f1cf29080c8414a276",
+      "Pais": {
+        "Nombre": "Ecuador",
+        "Abrev": "Ec",
+        "Color": "btn-secondary",
+        "Orden": 3,
+        "Identificador": "",
+        "XmlUrl": "https://feeds.navent.com/rela/NavplatRE_9.xml",
+        "CronExpression": "40 3 * * *"
+      },
+      "PaisAbrev": "Ec",
+      "FechaInicioDescarga": {
+        "$date": {
+          "$numberLong": "1645797718523"
+        }
+      },
+      "FechaFinDescarga": {
+        "$date": {
+          "$numberLong": "1645803931629"
+        }
+      },
+      "Correctos": 98,
+      "Fallidos": 2,
+      "Insertados": 70670,
+      "NoInsertados": 0
+    },
+    {
+      "_id": {
+        "$oid": "5c714d007bf93b14d07331e4"
+      },
+      "Identificador": "5c714d007bf93b14d07331e4",
+      "Pais": {
+        "Nombre": "Venezuela",
+        "Abrev": "Ve",
+        "Color": "",
+        "Orden": 7,
+        "Identificador": "",
+        "XmlUrl": "https://feeds.navent.com/rela/NavplatRE_13.xml",
+        "CronExpression": "43 3 * * *"
+      },
+      "PaisAbrev": "Ve",
+      "FechaInicioDescarga": {
+        "$date": {
+          "$numberLong": "1645800438304"
+        }
+      },
+      "FechaFinDescarga": {
+        "$date": {
+          "$numberLong": "1645806473754"
+        }
+      },
+      "Correctos": 100,
+      "Fallidos": 0,
+      "Insertados": 300472,
+      "NoInsertados": 0
+    },
+    {
+      "_id": {
+        "$oid": "5c714d4e7bf93b14d07331e8"
+      },
+      "Identificador": "5c714d4e7bf93b14d07331e8",
+      "Pais": {
+        "Nombre": "Mexico",
+        "Abrev": "Mx",
+        "Color": "",
+        "Orden": 0,
+        "Identificador": "",
+        "XmlUrl": "https://feeds.navent.com/rela/NavplatRE_18.xml",
+        "CronExpression": "40 15 * * *"
+      },
+      "PaisAbrev": "Mx",
+      "FechaInicioDescarga": {
+        "$date": {
+          "$numberLong": "1645800063248"
+        }
+      },
+      "FechaFinDescarga": {
+        "$date": {
+          "$numberLong": "1645808021514"
+        }
+      },
+      "Correctos": 100,
+      "Fallidos": 0,
+      "Insertados": 640319,
+      "NoInsertados": 0
+    },
+    {
+      "_id": {
+        "$oid": "5c714d7f7bf93b14d07331e9"
+      },
+      "Identificador": "5c714d7f7bf93b14d07331e9",
+      "Pais": {
+        "Nombre": "Brasil",
+        "Abrev": "Br",
+        "Color": "btn-success",
+        "Orden": 1,
+        "Identificador": "",
+        "XmlUrl": "http://feeds.navent.com/iwbr/NavplatRE_2.xml",
+        "CronExpression": "5 5 * * *"
+      },
+      "PaisAbrev": "Br",
+      "FechaInicioDescarga": {
+        "$date": {
+          "$numberLong": "1650911977280"
+        }
+      },
+      "FechaFinDescarga": {
+        "$date": {
+          "$numberLong": "1650916575766"
+        }
+      },
+      "Correctos": 100,
+      "Fallidos": 0,
+      "Insertados": 4546173,
+      "NoInsertados": 0
+    }
+  ]
+}
